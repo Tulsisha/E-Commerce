@@ -1,0 +1,25 @@
+#header
+{
+	height:25%;
+	background-color:black;
+}
+#footer
+{
+	height:45%;
+	background-color:white;
+	color:white;
+	text-align:center;
+}
+#content{
+	height:70%;
+}
+#menubar
+{
+	background-color:whitw;
+}
+#menubar li a
+{
+	color:black;
+	font-size:20pt;
+}
+	

@@ -1,0 +1,51 @@
+#header
+{
+  background-color:black;
+  color:white;
+  text-align:center;
+  height:25%;
+}
+#content
+{
+  
+  height:70%;
+}
+#footer
+{
+  background-color:white;
+  color:Black;
+  text-align:center;
+  font-family:fantasy;
+  font-size:20pt;
+  height:5%;
+}
+#leftbar
+{
+	width:60%;
+	height:100%;
+	background-color:yellow;
+	float:left;
+}
+#rightbar
+{
+	width:40%;
+	height:100%;
+	background-color:white;
+	float:right;
+}
+
+#menubar
+{
+	background-color:silver;
+	
+}
+#menubar li a
+{
+	color:Black;
+	font-size:20pt;
+}
+#legend
+{
+	color:Black;
+	font-size:20pt;
+}
